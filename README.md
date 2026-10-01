@@ -1,8 +1,8 @@
-# DIIW UT03 — Accesibilidad web
+# DIIW UT02 — Accesibilidad web
 
-Apuntes de la unidad 3 del módulo **Diseño de Interfaces Web**, curso 2026-2027.
+Apuntes de la unidad 2 del módulo **Diseño de Interfaces Web**, curso 2026-2027.
 
-El repositorio contiene exclusivamente teoría. Las actividades se alojan por separado dentro de `Actividades`.
+El repositorio contiene los materiales teóricos de la unidad.
 
 ## Contenidos
 
@@ -17,4 +17,4 @@ El repositorio contiene exclusivamente teoría. Las actividades se alojan por se
 
 - [WCAG 2.2](https://www.w3.org/TR/WCAG22/)
 - [WAI — Introducción a la accesibilidad](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
-- Materiales de la UT03 publicados en Google Classroom.
+- Materiales de la UT02 publicados en Google Classroom.
