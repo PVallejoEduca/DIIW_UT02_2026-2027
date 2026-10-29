@@ -17,4 +17,3 @@ El repositorio contiene los materiales teóricos de la unidad.
 
 - [WCAG 2.2](https://www.w3.org/TR/WCAG22/)
 - [WAI — Introducción a la accesibilidad](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
-- Materiales de la UT02 publicados en Google Classroom.
